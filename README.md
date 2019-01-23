@@ -1,2 +1,2 @@
 # hello-world
-1st repository in github for practice by Vikram on 23_JAN_2019 from a sub brach called readme-edits.
+2nd branch named readme-edits2 created for learning Git hub branch structure 2nd commit
